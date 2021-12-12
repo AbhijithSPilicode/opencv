@@ -1,4 +1,4 @@
-# Black and white
+# Black and white 
 import cv2
 import numpy as np
 black=np.zeros((288,512))
