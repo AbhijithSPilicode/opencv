@@ -13,3 +13,4 @@ cv2.putText(img,"Hello",(300,150),cv2.FONT_HERSHEY_COMPLEX,2,(120,120,30),3) #wi
 cv2.imshow("output",img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
