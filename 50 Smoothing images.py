@@ -1,4 +1,5 @@
 #Smoothing images
+#Homogenous(filter2D),Averaging,Gaussian bluring,median bluring,bilateral bluring
 #Removing noise, reducing the grains
 #kernel is given by user like 3x3 or 5x5 or 7x7 some odd matrices near a pixel
 import cv2
