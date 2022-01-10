@@ -1,4 +1,4 @@
-#Image Blending Using Pyramids
+#Image Stitching
 import cv2
 import numpy as np
 img1=cv2.imread("C:\\Users\\user\\Desktop\\asap\\opencv images\\21.jpg")
